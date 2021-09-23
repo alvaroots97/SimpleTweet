@@ -1,9 +1,9 @@
-#Unit 3 Project: Twitter Client - Part 1
+# Unit 3 Project: Twitter Client - Part 1
 
-##Overview
+## Overview
 Build a simple Twitter client that supports viewing a Twitter timeline.
 
-###User Histories
+### User Histories
 
 User can sign in to Twitter using OAuth login
 
@@ -19,7 +19,7 @@ Using the RecyclerView
 User can refresh tweets timeline by pulling down to refresh
 
 
-###Stretch stories
+### Stretch stories
 User can view more tweets as they scroll with infinite pagination
 
 Improve the user interface and theme the app to feel "twitter branded"
